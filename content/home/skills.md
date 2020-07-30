@@ -25,7 +25,13 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
+
+[[feature]]
+  icon = "balance-scale"
+  icon_pack = "fas"
+  name = "Law & Policy"
+  description = "for equity in conservation"  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
@@ -33,11 +39,11 @@ subtitle = ""
   description = "10%"
 
 # Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
+[[feature]]
+  icon = ":smile:"
+  icon_pack = "emoji"
+  name = "Emojiness"
+  description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
