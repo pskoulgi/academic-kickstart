@@ -18,32 +18,32 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+#    description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Analysis & Visualization"
+#    description = "100"  
 
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
   name = "Law & Policy"
-  description = "for equity in conservation"  
+#    description = "for equity in conservation"  
 
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+#  [[feature]]
+#    icon = "camera-retro"
+#    icon_pack = "fas"
+#    name = "Photography"
+#    description = "10%"
 
 # Uncomment to use emoji icons.
-[[feature]]
-  icon = ":smile:"
-  icon_pack = "emoji"
-  name = "Emojiness"
-  description = "100%"  
+#  [[feature]]
+#    icon = ":smile:"
+#    icon_pack = "emoji"
+#    name = "Emojiness"
+#    description = "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
