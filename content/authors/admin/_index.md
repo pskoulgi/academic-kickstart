@@ -72,6 +72,8 @@ user_groups:
 # - Visitors
 ---
 
+** **_STILL UNDER CONSTRUCTION_** **
+
 I am an independent consulting researcher working on conservation projects in the Indian context, with specific expertise in geospatial data analysis and visualization using R and Google Earth Engine and allied suite of geospatial tools. I am an ecologist by training and I like introducing data from diverse, non-traditional sources with scientific rigour to conservation and allied disciplines. My work has been with a diverse set of conservation professionals, ranging from scientists and NGOs to data journalists and litigating lawyers. I used to be an engineer in my previous life.
 
 I am well versed with data analysis and visualization {{< icon name="chart-area" pack="fas" >}} using {{< icon name="r-project" pack="fab" >}}, and with large satellite and derived geospatial data analysis {{< icon name="globe" pack="fas" >}}{{< icon name="drafting-compass" pack="fas" >}} using [Google Earth Engine](earthengine.google.com). 
